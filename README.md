@@ -19,4 +19,10 @@ The Digital Assistant Teacher (hereinafter DAT) is a new system developed by our
   <img src="https://media.giphy.com/media/4joWutleUaK2ijfJf5/giphy.gif" width="200" height="200"/>
 </div>
 
-- :heavy_exclamation_mark: 
+- :heavy_exclamation_mark: Код проверялся на соблюдение стандарта <a href="https://pep8.org/">PEP8</a>.
+- :heavy_exclamation_mark: Проводилась оценка цикломатической сложности программы.
+- :heavy_exclamation_mark: Алгоритм должен был пройти тестирование на всех входных значениях DAT.
+
+---
+
+###
