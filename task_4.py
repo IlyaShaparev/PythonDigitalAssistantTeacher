@@ -11,6 +11,7 @@ def main(n):
             main(n - 2)) ** 2)) / 77 + log2(main(n - 2)) ** 2 + 1
 
 
+#  _TESTS_  #
 print(main(6))          # = 1.02e+00
 print(main(4))          # = 1.02e+00
 print(main(7))          # = 6.74e+00

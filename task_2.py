@@ -14,6 +14,7 @@ def main(y):
         return 27 * (80 * y ** 3 - y ** 2 - 1) ** 3 + tan(y)
 
 
+#  _TESTS_  #
 print(main(270))            # = 1.43e+27
 print(main(119))            # = 3.68e+34
 print(main(277))            # = 1.76e+27

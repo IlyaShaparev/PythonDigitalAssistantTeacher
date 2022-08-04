@@ -9,6 +9,7 @@ def main(m, a, n):
     return summ
 
 
+#  _TESTS_  #
 print(main(5, 4, 2))            # = 7.75e+05
 print(main(3, 7, 3))            # = 5.47e+04
 print(main(4, 3, 5))            # = 3.34e+05
