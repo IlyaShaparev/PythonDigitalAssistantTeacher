@@ -7,7 +7,8 @@ def main(n):
     elif n == 1:
         return 0.29
     else:
-        return (atan(43 * (main(n-1)) ** 3 - 1 - 15 * (main(n-2)) ** 2))/77 + log2(main(n-2)) ** 2 + 1
+        return (atan(43 * (main(n - 1)) ** 3 - 1 - 15 * (
+            main(n - 2)) ** 2)) / 77 + log2(main(n - 2)) ** 2 + 1
 
 
 print(main(6))          # = 1.02e+00
